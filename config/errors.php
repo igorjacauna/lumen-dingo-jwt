@@ -1,0 +1,4 @@
+<?php
+
+const WRONG_PASSWORD_OR_LOGIN = 1001;
+const ERROR_ON_CREATE_USER = 2001;
